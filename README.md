@@ -1,10 +1,10 @@
-### Gamers Unite
+# Gamers Unite
 
 ## Description
 
 Trying out website design
 
-# Dependencies
+### Dependencies
 
 html
 css
