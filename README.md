@@ -9,6 +9,11 @@ Trying out website design
 html
 css
 
+## View Website
+
+Click on link to view
+https://prasaanth94.github.io/startUpPage/startup/
+
 ## Authors
 
 M.Prasaanth
